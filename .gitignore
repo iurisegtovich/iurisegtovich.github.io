@@ -1,0 +1,8 @@
+*-checkpoint.ipynb
+
+*~
+
+Gemfile
+Gemfile.lock
+_site/*
+test.sh
